@@ -1,4 +1,4 @@
-[
+export const data = [
   {
     id: 1,
     title: "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
@@ -260,4 +260,4 @@
   },
 ];
 
-["electronics", "jewelery", "men's clothing", "women's clothing"];
+export const categories = ["electronics", "jewelery", "men's clothing", "women's clothing"];
